@@ -7,4 +7,4 @@ electric or electric cars. This growing trend towards newer, sleeker electric ve
 
 All of the work was done using PgAdmin4 (PostgreSQL) and Tableau. 
 
-
+[Dashboard in Tableau Public](https://public.tableau.com/views/cars_com_Dashboard/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
