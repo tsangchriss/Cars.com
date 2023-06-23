@@ -1,4 +1,4 @@
-## [LINK TO ORIGINAL DATA SET](https://www.kaggle.com/datasets/andreinovikov/used-cars-dataset)
+## [Link to Original Dataset](https://www.kaggle.com/datasets/andreinovikov/used-cars-dataset)
 
 Objective: Examine the Ford cars posted on Cars.com and compare their performance with other automobile manufacturers like Toyota, Jeep, and Nissan. 
 
