@@ -6,3 +6,5 @@ It's not surprising that an increasing number of individuals are opting for sust
 electric or electric cars. This growing trend towards newer, sleeker electric vehicles made me think about the state of the used car market. How are different companies adjusting to the ongoing shift towards a greener society?
 
 All of the work was done using PgAdmin4 (PostgreSQL) and Tableau. 
+
+
