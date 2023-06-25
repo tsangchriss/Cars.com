@@ -1,8 +1,8 @@
 -- 1. Provide a query showing the most popular companies posted by sellers.
 SELECT company, COUNT(company) FROM car
 GROUP BY company 
-HAVING COUNT(company) >= 10000
-ORDER BY COUNT(company) DESC; 
+ORDER BY COUNT(company) DESC
+LIMIT 5; 
 
 -- 2. Provide a query showing the most popular Ford models. 
 SELECT MODEL, COUNT(MODEL) FROM CAR
