@@ -90,6 +90,8 @@ GROUP BY YEAR
 HAVING YEAR BETWEEN 2010 AND 2020
 ORDER BY COUNT(*) DESC;
 
+------
+
 -- 11. What are the top 5 cars posted on Cars.com?
 SELECT company, COUNT(company) FROM car
 GROUP BY company 
